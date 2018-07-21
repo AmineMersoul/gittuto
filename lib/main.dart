@@ -8,8 +8,8 @@ class MyApp extends StatelessWidget {
     return new MaterialApp(
       title: 'Git Tuto',
       theme: new ThemeData(
-        primarySwatch: Colors.yellow,
-      ),
+        primarySwatch: Colors.red,
+        ),
       home: new MyHomePage(title: 'Git Tuto Home Page'),
     );
   }
