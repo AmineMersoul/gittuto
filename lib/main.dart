@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:gittuto/player.dart';
 
-void main() => runApp(new MyApp());
+void main() => runApp(new VideoApp());
 
 class MyApp extends StatelessWidget {
   @override
